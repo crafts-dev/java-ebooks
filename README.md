@@ -39,3 +39,8 @@ The MIT License (MIT)
 #### Security
 [Secure Web Development Teaching Modules. Introduction to Java Security by Li-Chiou Chen - 2011](%5BSecure%20Web%20Development%20Teaching%20Modules.%20Introduction%20to%20Java%20Security%20by%20Li-Chiou%20Chen%20-%202011%5D.pdf)  
 [Authentication and Session Management by Jim Manico - 2015](%5BAuthentication%20and%20Session%20Management%20by%20Jim%20Manico%20-%202015%5D.pdf)  
+
+## Online resources, the best collection
+
+[**000. Java Concept Of The Day, javaconceptoftheday.com**](http://javaconceptoftheday.com)  
+[**001. java.interview.preparation, javadecodedquestions.blogspot.ru**](http://javadecodedquestions.blogspot.ru)  
